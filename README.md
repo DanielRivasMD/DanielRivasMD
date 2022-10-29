@@ -9,16 +9,17 @@
 
 **Physician** | **Data analyst**
 
-<!-- <img align="center" width="80%" height="auto" src="https://wakatime.com/share/@7f2cbcfd-3faf-499f-a8be-32d3f01aee52/8f3e3612-c520-4b94-aab5-7acf97d9d03c.svg">
-</img> -->
+<!-- <img align="center" width="80%" height="auto" src="https://wakatime.com/share/@7f2cbcfd-3faf-499f-a8be-32d3f01aee52/8f3e3612-c520-4b94-aab5-7acf97d9d03c.svg"> </img> -->
 
-<br/>
+<!-- <br/> -->
 
+<!--
 <a href="https://www.linkedin.com/in/daniel-rivas-b6306917b/">
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
+-->
 
-<br />
+<!-- <br /> -->
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRivasMD&show_icons=true&hide_border=true&hide=stars)
