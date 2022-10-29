@@ -20,3 +20,5 @@
 <br />
 
 <br />
+
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRivasMD&show_icons=true&hide_border=true&hide=stars)
