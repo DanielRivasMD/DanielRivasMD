@@ -19,4 +19,4 @@
 
 <!-- <br /> -->
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRivasMD&show_icons=true&count_private=true)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRivasMD&show_icons=true&count_private=true&theme=cobalt)
