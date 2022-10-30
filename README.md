@@ -7,6 +7,8 @@
 **Physician** | **Data analyst**
 
 <!-- <img align="center" width="80%" height="auto" src="https://wakatime.com/share/@7f2cbcfd-3faf-499f-a8be-32d3f01aee52/8f3e3612-c520-4b94-aab5-7acf97d9d03c.svg"> </img> -->
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRivasMD&show_icons=true&count_private=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRivasMD)
 
 <!-- <br/> -->
 
@@ -19,6 +21,4 @@
 
 <!-- <br /> -->
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRivasMD&show_icons=true&count_private=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRivasMD)](https://github.com/anuraghazra/github-readme-stats)
 
