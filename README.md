@@ -6,8 +6,6 @@
 [![BitBucket: DanielRivasMD](https://img.shields.io/badge/-BitBucket-gray?style=flat-square&log=bitbucket&logoColor=white&link=https://bitbucket.org/danielrivasmd)](https://bitbucket.org/danielrivasmd)
 [![GitHub: DanielRivasMD](https://img.shields.io/github/followers/DanielRivasMD?label=follow&style=social)](https://github.com/DanielRivasMD)
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRivasMD&show_icons=true&count_private=true&theme=cobalt)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRivasMD&show_icons=true&count_private=true&theme=cobalt)
 
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRivasMD)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRivasMD&show_icons=true&count_private=true&theme=cobalt)
